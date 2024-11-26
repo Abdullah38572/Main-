@@ -3,13 +3,13 @@
 1. Clone the repository:
 
 ```
-git clone https://github.com/Ifarra/TikTokBoost.git
+git clone https://github.com/Abdullah38572/Main-.git
 ```
 
 2. Navigate to the project directory:
 
 ```
-cd TikTokBoos
+cd Main-
 ```
 
 3. Install the required Python packages:
